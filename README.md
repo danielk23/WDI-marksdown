@@ -14,5 +14,5 @@
     * get a dog
     * *get a job as a web developer in 2019*
     
-    @danielk78
+   https://github.com/danielk78
   
